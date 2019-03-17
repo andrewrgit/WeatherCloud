@@ -1,0 +1,16 @@
+button {
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  border: 5px solid transparent;
+  font-weight: bold;
+  border-radius: 40px;
+  transition: all .7s ease;
+  text-size: 20px;
+}
+
+button:hover {
+  border: 5px solid grey;
+  transform: scale(1.1);
+
+}
